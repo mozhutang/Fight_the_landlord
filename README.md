@@ -1,2 +1,4 @@
 # Fight_the_landlord
- An "Fight the landlord" AI agent
+This is an "Fight the landlord" AI agent.
+
+See Report.pdf for more information.
